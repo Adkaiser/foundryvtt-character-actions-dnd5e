@@ -64,16 +64,16 @@
 	"styles": ["styles/dnd5eCharacterActions.css"],
 	"compatibility": {
 		"minimum": 10,
-		"verified": 10,
-		"maximum": 10
+		"verified": 11,
+		"maximum": 11
 	},
 	"manifestPlusVersion": "1.2.1",
-	"url": "https://github.com/p4535992/foundryvtt-character-actions-dnd5e",
-	"manifest": "https://github.com/p4535992/foundryvtt-character-actions-dnd5e/releases/latest/download/module.json",
-	"download": "https://github.com/p4535992/foundryvtt-character-actions-dnd5e/releases/latest/download/module.zip",
-	"readme": "https://github.com/p4535992/foundryvtt-character-actions-dnd5e/blob/v6.0.9/README.md",
-	"changelog": "https://github.com/p4535992/foundryvtt-character-actions-dnd5e/blob/v6.0.9/CHANGELOG.md",
-	"bugs": "https://github.com/p4535992/foundryvtt-character-actions-dnd5e/issues",
+	"url": "https://github.com/Adkaiser/foundryvtt-character-actions-dnd5e",
+	"manifest": "https://github.com/Adkaiser/foundryvtt-character-actions-dnd5e/releases/latest/download/module.json",
+	"download": "https://github.com/Adkaiser/foundryvtt-character-actions-dnd5e/releases/latest/download/module.zip",
+	"readme": "https://github.com/Adkaiser/foundryvtt-character-actions-dnd5e/blob/v6.0.9/README.md",
+	"changelog": "https://github.com/Adkaiser/foundryvtt-character-actions-dnd5e/blob/v6.0.9/CHANGELOG.md",
+	"bugs": "https://github.com/Adkaiser/foundryvtt-character-actions-dnd5e/issues",
 	"allowBugReporter": true,
 	"relationships": {
 		"systems": [
